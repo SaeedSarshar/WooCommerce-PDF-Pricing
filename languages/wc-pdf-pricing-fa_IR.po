@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wc-pdf-pricing.php:15
+msgid "PDF Pricing Settings"
+msgstr "تنظیمات قیمت‌گذاری PDF"
+
+#: wc-pdf-pricing.php:20
+msgid "Add New Size"
+msgstr "افزودن سایز جدید"
+
+#: wc-pdf-pricing.php:25
+msgid "Remove Size"
+msgstr "حذف سایز"
+
+#: includes/admin-settings.php:30
+msgid "Size"
+msgstr "سایز"
+
+#: includes/admin-settings.php:35
+msgid "Ranges (Min - Max - Price Per Page)"
+msgstr "بازه‌ها (کمترین - بیشترین - قیمت هر صفحه)"
+
+#: includes/admin-settings.php:40
+msgid "Action"
+msgstr "عملیات"
+
+#: includes/admin-settings.php:50
+msgid "Add Range"
+msgstr "افزودن بازه"
+
+#: includes/admin-settings.php:55
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: includes/ajax-handler.php:30
+msgid "No file uploaded."
+msgstr "هیچ فایلی آپلود نشده است."
+
+#: includes/ajax-handler.php:35
+msgid "Error processing PDF."
+msgstr "خطا در پردازش PDF."
+
+#: includes/ajax-handler.php:45
+msgid "Estimated Price:"
+msgstr "قیمت تخمینی:"
+
+#: includes/ajax-handler.php:50
+msgid "Toman"
+msgstr "تومان"
+
+#: includes/admin-settings.php:60
+msgid "Remove Range"
+msgstr "حذف بازه"
+
+#: includes/admin-settings.php:70
+msgid "Add Size"
+msgstr "افزودن سایز"
+
+#: includes/frontend.js:10
+msgid "Error calculating price."
+msgstr "خطا در محاسبه قیمت."

@@ -1,0 +1,29 @@
+msgid "PDF Pricing Settings"
+msgstr ""
+
+msgid "Add New Size"
+msgstr ""
+
+msgid "Remove Size"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Ranges (Min - Max - Price Per Page)"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Add Range"
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgid "Estimated Price:"
+msgstr ""
+
+msgid "Toman"
+msgstr ""
